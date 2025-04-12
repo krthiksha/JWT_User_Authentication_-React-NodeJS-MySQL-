@@ -1,14 +1,12 @@
 # JWT_User_Authentication_-React-NodeJS-MySQL-
 
 
-📘 About This Repository
+## 📘 About This Repository
 In this repository, I’ve documented my learning experience and built a User Authentication Project using:
 
-React for the frontend
-
-Node.js for the backend
-
-MySQL as the database for storing user data
+1. React for the frontend
+2. Node.js for the backend
+3. MySQL as the database for storing user data
 
 Through this project, I learned how to implement secure user authentication using JWT (JSON Web Tokens) and showcased it with a clean, modern UI built in React.
 
