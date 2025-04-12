@@ -2,7 +2,6 @@
 
 1️⃣ What is Authentication?
 📌 Authentication is the process of verifying who you are. It ensures that users provide valid credentials (like email & password) to access an application.
-
 🔹 Example: When you log into a website (e.g., Gmail), you enter your email & password. If correct, you get access. Otherwise, you’re denied.
 
 
@@ -27,7 +26,6 @@ Some pages should be restricted (e.g., dashboard).
 If a user is logged in (valid token), they can access protected pages.
 
 4️⃣ Step-by-Step Implementation
-We'll build:
 ✅ Register Page (Sign Up)
 ✅ Login Page
 ✅ Modern UI with React & React Router
